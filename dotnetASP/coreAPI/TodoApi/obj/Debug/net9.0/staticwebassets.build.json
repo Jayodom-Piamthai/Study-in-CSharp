@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "BjtAvWZ1LXR6oTOAWgTKHqlYKnlQ7ICQu+i7ISAq2w0=",
+  "Source": "TodoApi",
+  "BasePath": "_content/TodoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi\\wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "css/site#[.{fingerprint=olqrz1n3ey}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bhh0jw4pkc",
+      "Integrity": "gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-3775jmn1bb.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/site#[.{fingerprint=3775jmn1bb}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ugqlwruv2",
+      "Integrity": "Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-kwfxa25fi7.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint=kwfxa25fi7}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dagbt9z2oh",
+      "Integrity": "yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\css\\site.css",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "olqrz1n3ey",
+      "Integrity": "bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\index.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kwfxa25fi7",
+      "Integrity": "xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\js\\site.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3775jmn1bb",
+      "Integrity": "UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004672897196"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004672897196"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bJZq5BpvwdMEp7REhg+3nPiDU7JXRvMiFl5SW9r7MEI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.olqrz1n3ey.css.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\dr7bsx0dci-olqrz1n3ey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:27:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "olqrz1n3ey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gbTfqmUYDtCN7vxgnzv1LnlFaprYl/vnrPmrnnPxHPs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-kwfxa25fi7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-kwfxa25fi7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg="
+        }
+      ]
+    },
+    {
+      "Route": "index.kwfxa25fi7.html",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-kwfxa25fi7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwfxa25fi7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM="
+        }
+      ]
+    },
+    {
+      "Route": "index.kwfxa25fi7.html",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwfxa25fi7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xHBsa2OE6mxekh8N32gwaTzSKcQZY/52W0wB4403WSM="
+        }
+      ]
+    },
+    {
+      "Route": "index.kwfxa25fi7.html.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\v7fzscjp8g-kwfxa25fi7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 03:55:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kwfxa25fi7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yydp5jbzagT8ekIG686tu2cIozGzqVOrefglasaq+Fg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.3775jmn1bb.js",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-3775jmn1bb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000923361034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3775jmn1bb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.3775jmn1bb.js",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3775jmn1bb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.3775jmn1bb.js.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-3775jmn1bb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3775jmn1bb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-3775jmn1bb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000923361034"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZH7Lg8qhfedMqWUl/whqLauKW3cpdQKyb1cs9GeaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\coreAPI\\TodoApi\\obj\\Debug\\net9.0\\compressed\\jn4os9k5nm-3775jmn1bb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 04:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0N1O5rWWInFjKzZCDuhYzCnk/XUGbz56k7aN4Zzp4U="
+        }
+      ]
+    }
+  ]
+}
