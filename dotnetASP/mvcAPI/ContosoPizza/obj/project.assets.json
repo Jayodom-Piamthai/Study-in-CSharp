@@ -5199,23 +5199,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aceja\\.nuget\\packages\\": {},
+    "C:\\Users\\aceJP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\ContosoPizza.csproj",
-      "packagesPath": "C:\\Users\\aceja\\.nuget\\packages\\",
-      "outputPath": "D:\\Ace's File\\Projects and shits\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\obj\\",
+      "projectPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\ContosoPizza.csproj",
+      "packagesPath": "C:\\Users\\aceJP\\.nuget\\packages\\",
+      "outputPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aceja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aceJP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5295,7 +5295,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

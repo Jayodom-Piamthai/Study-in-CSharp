@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "h0wHxNsqDbhQjuCvqNg8S9ls2qGujg39mSOSpHICFpQ=",
+  "Source": "AngularServer",
+  "BasePath": "_content/AngularServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
