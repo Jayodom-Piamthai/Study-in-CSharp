@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\bin\Debug\lesson1.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\bin\Debug\lesson1.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\bin\Debug\lesson1.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\obj\Debug\lesson1.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\obj\Debug\lesson1.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\obj\Debug\lesson1.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson1\lesson1\obj\Debug\lesson1.pdb
