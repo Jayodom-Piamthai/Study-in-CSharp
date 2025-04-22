@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityTest2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815bc035d84e23c944b9b0220201a6492625c912")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d466d65c2615ba1547fcbaceeb842d3c9b78990c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityTest2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityTest2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

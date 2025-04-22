@@ -11,13 +11,14 @@ builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddDbContext<PaymentContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("PostgresConnection")));
 
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
     {
-        Title = "Contoso Pizza API",
+        Title = "payment detail form API",
         Version = "v1"
     });
 });

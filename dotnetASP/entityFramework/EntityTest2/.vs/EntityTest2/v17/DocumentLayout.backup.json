@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\",
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\data\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\entitytest2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\entitytest2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\entitytest2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
@@ -41,7 +41,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|d:\\personalfiles\\projects\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|c:\\outie stuff\\study-in-csharp\\dotnetasp\\entityframework\\entitytest2\\entitytest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12322DD8-BF03-43E2-8F59-ABE45CF76512}|EntityTest2\\EntityTest2.csproj|solutionrelative:entitytest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PizzaService.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Services\\PizzaService.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Services\\PizzaService.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Services\\PizzaService.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Services\\PizzaService.cs",
               "RelativeToolTip": "EntityTest2\\Services\\PizzaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,22 +71,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PizzaContext.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Data\\PizzaContext.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Data\\PizzaContext.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Data\\PizzaContext.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Data\\PizzaContext.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Data\\PizzaContext.cs",
               "RelativeToolTip": "EntityTest2\\Data\\PizzaContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T13:49:15.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T13:49:15.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "EntityTest2.http",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.http",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.http",
               "RelativeDocumentMoniker": "EntityTest2\\EntityTest2.http",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.http",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.http",
               "RelativeToolTip": "EntityTest2\\EntityTest2.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -97,9 +96,7 @@
               "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\mvcAPI\\ContosoPizza\\Program.cs",
               "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\mvcAPI\\ContosoPizza\\Program.cs",
-              "RelativeToolTip": "..\\..\\mvcAPI\\ContosoPizza\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T12:55:16.144Z"
@@ -108,22 +105,21 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EntityTest2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:53:54.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T12:53:54.213Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "EntityTest2\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,48 +129,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PizzaController.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\PizzaController.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\PizzaController.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Controllers\\PizzaController.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Controllers\\PizzaController.cs",
               "RelativeToolTip": "EntityTest2\\Controllers\\PizzaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:48:31.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T12:48:31.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Program.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Program.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Program.cs",
               "RelativeToolTip": "EntityTest2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:30:13.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:30:13.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Pizza.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Models\\Pizza.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "EntityTest2\\Models\\Pizza.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\Models\\Pizza.cs",
               "RelativeToolTip": "EntityTest2\\Models\\Pizza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:39:27.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:39:27.214Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\appsettings.json",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\appsettings.json",
               "RelativeDocumentMoniker": "EntityTest2\\appsettings.json",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\appsettings.json",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\appsettings.json",
               "RelativeToolTip": "EntityTest2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -185,10 +178,16 @@
               "DocumentIndex": 9,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAALcTAAAAAAAAAAAwwMYTAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-19T08:24:03.78Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

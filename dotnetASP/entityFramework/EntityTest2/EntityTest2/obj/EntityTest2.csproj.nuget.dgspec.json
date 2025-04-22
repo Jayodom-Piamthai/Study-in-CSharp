@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj": {}
+    "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj": {}
   },
   "projects": {
-    "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj": {
+    "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj",
+        "projectUniqueName": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj",
         "projectName": "EntityTest2",
-        "projectPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj",
-        "packagesPath": "C:\\Users\\aceJP\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\obj\\",
+        "projectPath": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\EntityTest2.csproj",
+        "packagesPath": "C:\\Users\\piamthaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\EntityTest2\\EntityTest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aceJP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\piamthaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
