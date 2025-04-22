@@ -11,8 +11,8 @@ builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddDbContext<PaymentContext>(options =>
-    //options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
-    options.UseSqlServer(builder.Configuration.GetConnectionString("PostgresConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
+//options.UseSqlServer(builder.Configuration.GetConnectionString("PostgresConnection")));
 
 builder.Services.AddSwaggerGen(c =>
 {

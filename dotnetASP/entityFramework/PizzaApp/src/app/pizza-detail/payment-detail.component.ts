@@ -1,10 +1,10 @@
 import { Component,OnInit } from '@angular/core';
 import { DetailFormComponent } from "./detail-form/detail-form.component";
 import { PaymentDetailService } from '../shared/payment-detail.service';
-
+import { NgFor } from '@angular/common';
 @Component({
   selector: 'app-pizza-detail',
-  imports: [DetailFormComponent],
+  imports: [DetailFormComponent,NgFor],
   templateUrl: './payment-detail.component.html',
   styles: ``
 })

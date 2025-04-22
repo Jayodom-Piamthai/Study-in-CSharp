@@ -7921,23 +7921,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\piamthaj\\.nuget\\packages\\": {},
+    "C:\\Users\\aceJP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\AngularServer.csproj",
+      "projectUniqueName": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\AngularServer.csproj",
       "projectName": "AngularServer",
-      "projectPath": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\AngularServer.csproj",
-      "packagesPath": "C:\\Users\\piamthaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Outie stuff\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\obj\\",
+      "projectPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\AngularServer.csproj",
+      "packagesPath": "C:\\Users\\aceJP\\.nuget\\packages\\",
+      "outputPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\dotnetASP\\entityFramework\\AngularServer\\AngularServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\piamthaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aceJP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

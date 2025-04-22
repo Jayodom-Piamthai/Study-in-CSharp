@@ -17,37 +17,37 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AngularServer
 build_property.RootNamespace = AngularServer
-build_property.ProjectDir = C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\
+build_property.ProjectDir = D:\PersonalFiles\projects\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer
+build_property.MSBuildProjectDirectory = D:\PersonalFiles\projects\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Create.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Delete.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Details.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Edit.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Index.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/PaymentDetail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Outie stuff/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/PersonalFiles/projects/Study-in-CSharp/dotnetASP/entityFramework/AngularServer/AngularServer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

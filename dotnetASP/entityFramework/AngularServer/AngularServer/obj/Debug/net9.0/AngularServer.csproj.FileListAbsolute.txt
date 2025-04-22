@@ -556,3 +556,5 @@ C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularSe
 C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\obj\Debug\net9.0\ref\AngularServer.dll
 C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\bin\Debug\net9.0\Npgsql.dll
 C:\Outie stuff\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PersonalFiles\projects\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\bin\Debug\net9.0\Npgsql.dll
+D:\PersonalFiles\projects\Study-in-CSharp\dotnetASP\entityFramework\AngularServer\AngularServer\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -6,6 +6,12 @@
         <app-detail-form></app-detail-form>
     </div>
     <div class="col-6">
+        <ul class="list-group">
+            <!-- for payment data in service.list generate a list element -->
+            <li *ngFor="let pd of service.list">
+                {{pd.paymentDetailId}} - {{pd.cardOwnerName}} - {{pd.cardNumber}} - {{pd.expirationDate}} - {{pd.securityCode}}
+            </li>
+        </ul>
         list payment details
     </div>
 </div>
