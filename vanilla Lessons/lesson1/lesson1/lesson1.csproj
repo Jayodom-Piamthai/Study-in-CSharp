@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassStudy.cs" />
+    <Compile Include="dateTIme.cs" />
+    <Compile Include="folder\folderClass.cs" />
+    <Compile Include="namespaceStudy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="string.cs" />
+    <Compile Include="struct.cs" />
+    <Compile Include="variable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
