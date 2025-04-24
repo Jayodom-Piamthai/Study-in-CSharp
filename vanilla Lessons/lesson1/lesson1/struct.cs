@@ -45,8 +45,47 @@ namespace lesson1
 
         }
 
+        struct EventCoordinate
+        {
+            private int _x, _y; // _ prefix for private variable
 
-        static void Main(string[] args)
+            public int x
+            {
+                get
+                {
+                    return _x;
+                }
+
+                set
+                {
+                    _x = value;
+                    CoordinatesChanged(_x);
+                }
+            }
+
+            public int y
+            {
+                get
+                {
+                    return _y;
+                }
+
+                set
+                {
+                    _y = value;
+                    CoordinatesChanged(_y);
+                }
+            }
+
+            public event Action<int> CoordinatesChanged;
+        }
+        static void StructEventHandler(int point)
+        {
+            Console.WriteLine("Coordinate changed to {0}", point);
+        }
+
+
+        public static void Main()
         {
             //struct object can be created with or without the new operator
             Coordinate point = new Coordinate();
@@ -64,6 +103,14 @@ namespace lesson1
 
             Console.WriteLine(pointy.x); //output: 0  
             Console.WriteLine(pointy.y); //output: 0
+
+            //event handler 
+            EventCoordinate Eventpoint = new EventCoordinate();
+
+            Eventpoint.CoordinatesChanged += StructEventHandler;
+            Eventpoint.x = 10;
+            Eventpoint.y = 20;
+
         }
 
 
