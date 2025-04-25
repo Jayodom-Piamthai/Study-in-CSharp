@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\obj\Debug\valueRef.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\obj\Debug\valueRef.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\bin\Debug\valueRef.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\bin\Debug\valueRef.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\bin\Debug\valueRef.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\obj\Debug\valueRef.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\valueRef\valueRef\obj\Debug\valueRef.pdb

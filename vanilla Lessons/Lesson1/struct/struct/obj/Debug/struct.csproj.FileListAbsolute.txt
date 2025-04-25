@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\bin\Debug\@struct.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\bin\Debug\@struct.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\bin\Debug\@struct.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\obj\Debug\struct.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\obj\Debug\struct.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\obj\Debug\@struct.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\struct\struct\obj\Debug\@struct.pdb

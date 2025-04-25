@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson3\\arrayList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CA9876-D5DA-4CD6-8043-118A2E770BC5}|arrayList\\arrayList.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\lesson3\\arraylist\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CA9876-D5DA-4CD6-8043-118A2E770BC5}|arrayList\\arrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson3\\arrayList\\arrayList\\Program.cs",
+              "RelativeDocumentMoniker": "arrayList\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson3\\arrayList\\arrayList\\Program.cs",
+              "RelativeToolTip": "arrayList\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:37:11.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

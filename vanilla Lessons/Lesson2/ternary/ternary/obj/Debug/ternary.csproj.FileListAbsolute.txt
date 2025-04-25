@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\obj\Debug\ternary.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\obj\Debug\ternary.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\bin\Debug\ternary.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\bin\Debug\ternary.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\bin\Debug\ternary.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\obj\Debug\ternary.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\ternary\ternary\obj\Debug\ternary.pdb

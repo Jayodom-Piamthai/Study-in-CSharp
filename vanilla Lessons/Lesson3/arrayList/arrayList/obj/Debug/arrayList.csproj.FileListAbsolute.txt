@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\bin\Debug\arrayList.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\bin\Debug\arrayList.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\bin\Debug\arrayList.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\obj\Debug\arrayList.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\obj\Debug\arrayList.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\obj\Debug\arrayList.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\arrayList\arrayList\obj\Debug\arrayList.pdb

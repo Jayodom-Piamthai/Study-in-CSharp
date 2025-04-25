@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

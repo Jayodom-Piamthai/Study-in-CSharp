@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\bin\Debug\staticClass.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\bin\Debug\staticClass.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\bin\Debug\staticClass.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\obj\Debug\staticClass.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\obj\Debug\staticClass.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\obj\Debug\staticClass.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\staticClass\staticClass\obj\Debug\staticClass.pdb

@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\bin\Debug\@switch.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\bin\Debug\@switch.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\bin\Debug\@switch.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\obj\Debug\@switch.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\switch\switch\obj\Debug\@switch.pdb

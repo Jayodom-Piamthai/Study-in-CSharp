@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\bin\Debug\forLoops.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\bin\Debug\forLoops.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\bin\Debug\forLoops.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\obj\Debug\forLoops.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\obj\Debug\forLoops.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\forLoops\forLoops\obj\Debug\forLoops.pdb

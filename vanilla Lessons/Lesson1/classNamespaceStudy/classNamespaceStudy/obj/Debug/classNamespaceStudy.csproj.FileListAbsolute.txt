@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\obj\Debug\classNamespaceStudy.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\obj\Debug\classNamespaceStudy.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\bin\Debug\classNamespaceStudy.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\bin\Debug\classNamespaceStudy.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\bin\Debug\classNamespaceStudy.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\obj\Debug\classNamespaceStudy.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\classNamespaceStudy\classNamespaceStudy\obj\Debug\classNamespaceStudy.pdb

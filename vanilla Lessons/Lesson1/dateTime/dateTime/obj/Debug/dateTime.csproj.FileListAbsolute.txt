@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\obj\Debug\dateTime.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\NewLesson1\dateTime\dateTime\obj\Debug\dateTime.pdb

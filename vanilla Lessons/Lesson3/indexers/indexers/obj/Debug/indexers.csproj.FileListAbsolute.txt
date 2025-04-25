@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\obj\Debug\indexers.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\obj\Debug\indexers.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\bin\Debug\indexers.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\bin\Debug\indexers.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\bin\Debug\indexers.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\obj\Debug\indexers.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\indexers\indexers\obj\Debug\indexers.pdb

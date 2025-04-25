@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\bin\Debug\whileLoop.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\bin\Debug\whileLoop.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\bin\Debug\whileLoop.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\obj\Debug\whileLoop.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\obj\Debug\whileLoop.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\whileLoop\whileLoop\obj\Debug\whileLoop.pdb

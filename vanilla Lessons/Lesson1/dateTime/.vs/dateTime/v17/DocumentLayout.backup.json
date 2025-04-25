@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\dateTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92829969-FB1F-4394-9BF0-6DBACB832F7E}|dateTime\\dateTime.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\newlesson1\\datetime\\datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92829969-FB1F-4394-9BF0-6DBACB832F7E}|dateTime\\dateTime.csproj|solutionrelative:datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\dateTime\\dateTime\\Program.cs",
+              "RelativeDocumentMoniker": "dateTime\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\dateTime\\dateTime\\Program.cs",
+              "RelativeToolTip": "dateTime\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:53:56.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

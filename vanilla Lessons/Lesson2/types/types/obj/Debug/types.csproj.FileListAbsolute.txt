@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\bin\Debug\types.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\bin\Debug\types.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\bin\Debug\types.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\obj\Debug\types.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\obj\Debug\types.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\obj\Debug\types.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\types\types\obj\Debug\types.pdb

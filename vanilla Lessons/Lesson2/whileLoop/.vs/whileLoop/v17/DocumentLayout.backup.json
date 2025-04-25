@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\newLesson2\\whileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F232EB2-D8E7-445F-A987-CAB3D96FF3D2}|whileLoop\\whileLoop.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\newlesson2\\whileloop\\whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F232EB2-D8E7-445F-A987-CAB3D96FF3D2}|whileLoop\\whileLoop.csproj|solutionrelative:whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\newLesson2\\whileLoop\\whileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "whileLoop\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\newLesson2\\whileLoop\\whileLoop\\Program.cs",
+              "RelativeToolTip": "whileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:20:23.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

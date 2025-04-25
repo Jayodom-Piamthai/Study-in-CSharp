@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\obj\Debug\ifElse.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\obj\Debug\ifElse.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\bin\Debug\ifElse.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\bin\Debug\ifElse.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\bin\Debug\ifElse.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\obj\Debug\ifElse.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\ifElse\ifElse\obj\Debug\ifElse.pdb

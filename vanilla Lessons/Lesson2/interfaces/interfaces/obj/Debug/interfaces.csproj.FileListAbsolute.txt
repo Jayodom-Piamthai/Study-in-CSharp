@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\bin\Debug\interfaces.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\bin\Debug\interfaces.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\bin\Debug\interfaces.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\obj\Debug\interfaces.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\interfaces\interfaces\obj\Debug\interfaces.pdb

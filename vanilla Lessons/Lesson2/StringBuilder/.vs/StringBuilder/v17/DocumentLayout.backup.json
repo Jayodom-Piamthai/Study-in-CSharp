@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A9F282-26C2-4A8E-9941-084F88BE72FB}|StringBuilder\\StringBuilder.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\stringbuilder\\stringbuilder\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A9F282-26C2-4A8E-9941-084F88BE72FB}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringBuilder.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\StringBuilder\\StringBuilder\\stringBuilder.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\stringBuilder.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\StringBuilder\\StringBuilder\\stringBuilder.cs",
+              "RelativeToolTip": "StringBuilder\\stringBuilder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:59:02.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

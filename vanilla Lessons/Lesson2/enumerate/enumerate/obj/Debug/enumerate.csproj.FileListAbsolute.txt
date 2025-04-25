@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\bin\Debug\enumerate.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\bin\Debug\enumerate.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\bin\Debug\enumerate.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\obj\Debug\enumerate.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\obj\Debug\enumerate.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\obj\Debug\enumerate.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\newLesson2\enumerate\enumerate\obj\Debug\enumerate.pdb

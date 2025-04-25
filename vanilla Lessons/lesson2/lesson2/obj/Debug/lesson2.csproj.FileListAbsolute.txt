@@ -1,2 +1,0 @@
-C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson2\lesson2\obj\Debug\lesson2.csproj.AssemblyReference.cache
-C:\Outie stuff\Study-in-CSharp\vanilla Lessons\lesson2\lesson2\obj\Debug\lesson2.csproj.CoreCompileInputs.cache
