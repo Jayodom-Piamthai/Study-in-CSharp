@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\bin\Debug\sortedList.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\bin\Debug\sortedList.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\bin\Debug\sortedList.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\obj\Debug\sortedList.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\obj\Debug\sortedList.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\obj\Debug\sortedList.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\sortedList\sortedList\obj\Debug\sortedList.pdb

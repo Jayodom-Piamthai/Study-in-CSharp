@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\dictionary\dictionary\obj\Debug\dictionary.pdb

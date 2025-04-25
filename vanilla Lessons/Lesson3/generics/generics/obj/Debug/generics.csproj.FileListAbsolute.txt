@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\bin\Debug\generics.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\bin\Debug\generics.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\bin\Debug\generics.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\obj\Debug\generics.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\obj\Debug\generics.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson3\generics\generics\obj\Debug\generics.pdb
