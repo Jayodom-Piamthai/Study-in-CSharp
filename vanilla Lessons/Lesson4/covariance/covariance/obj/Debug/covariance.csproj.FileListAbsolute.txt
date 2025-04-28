@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\bin\Debug\covariance.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\bin\Debug\covariance.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\bin\Debug\covariance.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\obj\Debug\covariance.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\obj\Debug\covariance.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\obj\Debug\covariance.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\covariance\covariance\obj\Debug\covariance.pdb

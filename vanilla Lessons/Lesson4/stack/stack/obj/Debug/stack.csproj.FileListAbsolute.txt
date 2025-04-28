@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\bin\Debug\stack.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\bin\Debug\stack.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\bin\Debug\stack.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\obj\Debug\stack.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\stack\stack\obj\Debug\stack.pdb

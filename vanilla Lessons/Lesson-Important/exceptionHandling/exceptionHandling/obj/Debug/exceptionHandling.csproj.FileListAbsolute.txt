@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson-Important\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.pdb

@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\bin\Debug\hashtable.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\bin\Debug\hashtable.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\bin\Debug\hashtable.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\obj\Debug\hashtable.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\obj\Debug\hashtable.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\obj\Debug\hashtable.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\hashtable\hashtable\obj\Debug\hashtable.pdb

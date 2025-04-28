@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\bin\Debug\valueTuple.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\bin\Debug\valueTuple.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\bin\Debug\valueTuple.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\obj\Debug\valueTuple.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\obj\Debug\valueTuple.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\obj\Debug\valueTuple.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\valueTuple\valueTuple\obj\Debug\valueTuple.pdb

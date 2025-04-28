@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "streamIO", "streamIO\streamIO.csproj", "{ABE2EF37-4B4D-426B-8C02-08C32B35DCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE2EF37-4B4D-426B-8C02-08C32B35DCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE2EF37-4B4D-426B-8C02-08C32B35DCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE2EF37-4B4D-426B-8C02-08C32B35DCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE2EF37-4B4D-426B-8C02-08C32B35DCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B3CBD9-F9DC-4FDB-82BF-E66CEF66801D}
+	EndGlobalSection
+EndGlobal

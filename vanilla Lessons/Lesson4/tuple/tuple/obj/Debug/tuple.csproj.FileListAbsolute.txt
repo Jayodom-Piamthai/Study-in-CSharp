@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\bin\Debug\tuple.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\bin\Debug\tuple.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\bin\Debug\tuple.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\obj\Debug\tuple.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\obj\Debug\tuple.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\obj\Debug\tuple.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\tuple\tuple\obj\Debug\tuple.pdb

@@ -1,0 +1,7 @@
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\bin\Debug\predicateDelegate.exe.config
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\bin\Debug\predicateDelegate.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\bin\Debug\predicateDelegate.pdb
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\obj\Debug\predicateDelegate.csproj.AssemblyReference.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\obj\Debug\predicateDelegate.csproj.CoreCompileInputs.cache
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\obj\Debug\predicateDelegate.exe
+C:\Outie stuff\Study-in-CSharp\vanilla Lessons\Lesson4\predicateDelegate\predicateDelegate\obj\Debug\predicateDelegate.pdb

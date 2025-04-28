@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\program\\",
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson1\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{179B8BA5-23EC-4DC8-8693-6FC5FCB867DF}|program\\program.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\newlesson1\\program\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{179B8BA5-23EC-4DC8-8693-6FC5FCB867DF}|program\\program.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\lesson1\\program\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{179B8BA5-23EC-4DC8-8693-6FC5FCB867DF}|program\\program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\program\\program\\Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson1\\program\\program\\Program.cs",
               "RelativeDocumentMoniker": "program\\Program.cs",
-              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\NewLesson1\\program\\program\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson1\\program\\program\\Program.cs",
               "RelativeToolTip": "program\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T02:53:04.134Z",
               "EditorCaption": ""

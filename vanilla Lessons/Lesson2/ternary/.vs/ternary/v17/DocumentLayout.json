@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\ternary\\",
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\ternary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F955D37A-DE62-469E-AFD0-A805CED3A5E0}|ternary\\ternary.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\ternary\\ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F955D37A-DE62-469E-AFD0-A805CED3A5E0}|ternary\\ternary.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\lesson2\\ternary\\ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F955D37A-DE62-469E-AFD0-A805CED3A5E0}|ternary\\ternary.csproj|solutionrelative:ternary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\ternary\\ternary\\Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\ternary\\ternary\\Program.cs",
               "RelativeDocumentMoniker": "ternary\\Program.cs",
-              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\ternary\\ternary\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\ternary\\ternary\\Program.cs",
               "RelativeToolTip": "ternary\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T02:07:44.73Z",
               "EditorCaption": ""
