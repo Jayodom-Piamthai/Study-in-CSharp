@@ -12,7 +12,7 @@ namespace interfaces
         interface IFile //It is recommended to start an interface name with the letter "I" at the beginning of an interface so that it is easy to know that this is an interface and not a class.
         {
             //Interface members are by default abstract and public
-            //kinda like making a prefab blueprint for multiple classes to use,so when class implement it they gotta use all method inside
+            //***kinda like making a prefab blueprint for multiple classes to use,so when class implement it they gotta use all method inside
             void ReadFile(); //created a method without a body
             void WriteFile(string text);
             //default implementation no need to setup inside class

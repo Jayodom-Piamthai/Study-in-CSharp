@@ -14,13 +14,12 @@ namespace stringBuilder
         //StringBuilder doesn't create a new object in the memory but dynamically expands memory to accommodate the modified string
         public static void Main(string[] args)
         {
-
             StringBuilder sb = new StringBuilder(); //string will be appended later
                                                     //or
             StringBuilder sbNeo = new StringBuilder("Hello World!");
 
             //you can also specify the maximum capacity of the StringBuilder object using overloaded constructors
-            //This capacity will automatically be doubled once it reaches the specified capacity 
+            //***This capacity will automatically be doubled once it reaches the specified capacity 
             // You can also use the capacity or length property to set or retrieve the StringBuilder object's capacity
             StringBuilder sbb = new StringBuilder(50); //string will be appended later
                                                        //or

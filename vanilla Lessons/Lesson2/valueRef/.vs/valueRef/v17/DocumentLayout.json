@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\valueRef\\",
+  "WorkspaceRootPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\valueRef\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A56053-7F1B-465D-A50F-7D6EB95F11BB}|valueRef\\valueRef.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\valueref\\valueref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5A56053-7F1B-465D-A50F-7D6EB95F11BB}|valueRef\\valueRef.csproj|d:\\personalfiles\\projects\\study-in-csharp\\vanilla lessons\\lesson2\\valueref\\valueref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A56053-7F1B-465D-A50F-7D6EB95F11BB}|valueRef\\valueRef.csproj|solutionrelative:valueref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\valueRef\\valueRef\\Program.cs",
+              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\valueRef\\valueRef\\Program.cs",
               "RelativeDocumentMoniker": "valueRef\\Program.cs",
-              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\valueRef\\valueRef\\Program.cs",
+              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\valueRef\\valueRef\\Program.cs",
               "RelativeToolTip": "valueRef\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwEYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T02:17:23.692Z",
               "EditorCaption": ""

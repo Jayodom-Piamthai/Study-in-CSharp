@@ -82,7 +82,7 @@ namespace valueRef
             //reff type test
             Student std1 = new Student();
             std1.StudentName = "Bill";
-            ChangeReferenceType(std1); //changed to steve
+            ChangeReferenceType(std1); //changed to steve from std1.studentName address
             Console.WriteLine(std1.StudentName);
 
             //string test
