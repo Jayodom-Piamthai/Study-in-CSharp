@@ -9,11 +9,15 @@ import { NgFor } from '@angular/common';
   styles: ``
 })
 export class PaymentDetailComponent implements OnInit{
+  // payment detail dependency injection!!!!!!
   constructor(public service: PaymentDetailService) { }
+  //service is the name of variable to call paymentDetailService
   
   
-  ngOnInit(): void {
+  ngOnInit(): void {//run on startup
     // throw new Error('Method not implemented.');
+
+    //this method is injected from payment-detail.service.ts
     this.service.refreshList();
   }
 }

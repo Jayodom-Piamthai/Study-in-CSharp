@@ -1,0 +1,10 @@
+shared folder:
+    containing payment detail model for defining fata structure in paymentDetail database
+    and payment-detail service for defining site url and crud function to be injected
+    into application pages
+Environment folder:
+    containing environment variables for development stage and deployed stage
+payment-detail:
+    containing payment detail page/component to show,which were injected with paymentDetailService
+    -detail-form:
+        containing detail form component to be use for CRUD ops 

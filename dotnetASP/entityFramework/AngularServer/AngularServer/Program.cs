@@ -7,12 +7,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+
+//for automated api discovery in swager
 builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 
+//dependency injection for payment context -> connect to sql server
 builder.Services.AddDbContext<PaymentContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
-//options.UseSqlServer(builder.Configuration.GetConnectionString("PostgresConnection")));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection")));
+options.UseNpgsql(builder.Configuration.GetConnectionString("PostgresConnection")));
 
 builder.Services.AddSwaggerGen(c =>
 {
@@ -39,6 +42,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+//we add this to allow angular site on 4200 to communicate with our server at 7155 with any CRUD methods
 app.UseCors(options =>
 {
     options.WithOrigins("http://localhost:4200")

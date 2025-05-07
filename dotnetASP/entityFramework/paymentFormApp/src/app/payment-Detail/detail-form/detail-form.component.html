@@ -1,0 +1,29 @@
+<p>detail-form works!</p>
+<form [formGroup]="paymentFormGroup" (ngSubmit)="PaymentDetailSubmit()" style="display: grid;grid-template-columns: 30% auto;">
+    <label for="name">Name</label>
+    <input id="name" formControlName="cardOwnerName" style="border: solid black 3px;border-radius: 10px;"/>
+
+    <label for="number">Card Number</label>
+    <input id="number" formControlName="cardNumber" style="border: solid black 3px;border-radius: 10px;" />
+
+    <label for="expDate">Expiration date</label>
+    <input id="expDate" formControlName="expirationDate" style="border: solid black 3px;border-radius: 10px;" />
+
+    <label for="secNum">Security Code</label>
+    <input id="secNum" formControlName="securityCode" style="border: solid black 3px;border-radius: 10px;" />
+
+  <button class="submitBTN" type="submit" [disabled]="!paymentFormGroup.valid" style="border: solid black 3px;">Submit</button >
+
+    <style>
+        .submitBTN {
+            transition: 0.3s ease-in-out;
+            background-color: #04ff00;
+            color: #000000;
+        } 
+        .submitBTN:disabled {
+            transition: 0.3s ease-in-out;
+            background-color: #ff0000;
+            color: #ffffff;
+            cursor: not-allowed;
+        }   
+    </style>
