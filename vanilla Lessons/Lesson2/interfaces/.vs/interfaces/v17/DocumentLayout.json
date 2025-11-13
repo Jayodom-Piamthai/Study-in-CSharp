@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\interfaces\\",
+  "WorkspaceRootPath": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0391D12F-A08E-4279-899A-A1CE11F3332C}|interfaces\\interfaces.csproj|d:\\personalfiles\\projects\\study-in-csharp\\vanilla lessons\\lesson2\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0391D12F-A08E-4279-899A-A1CE11F3332C}|interfaces\\interfaces.csproj|c:\\outie stuff\\study-in-csharp\\vanilla lessons\\lesson2\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0391D12F-A08E-4279-899A-A1CE11F3332C}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\interfaces\\interfaces\\Program.cs",
+              "DocumentMoniker": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\interfaces\\interfaces\\Program.cs",
               "RelativeDocumentMoniker": "interfaces\\Program.cs",
-              "ToolTip": "D:\\PersonalFiles\\projects\\Study-in-CSharp\\vanilla Lessons\\lesson2\\interfaces\\interfaces\\Program.cs",
+              "ToolTip": "C:\\Outie stuff\\Study-in-CSharp\\vanilla Lessons\\Lesson2\\interfaces\\interfaces\\Program.cs",
               "RelativeToolTip": "interfaces\\Program.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAswC8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T02:22:57.671Z",
               "EditorCaption": ""
